@@ -1,6 +1,3 @@
-23k0069
-Task 4
-
 INCLUDE Irvine32.inc
 
 .data
@@ -45,5 +42,18 @@ main PROC
     call ExitProcess
 main ENDP
 END main
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![image](https://github.com/user-attachments/assets/74cbc277-ab5f-4047-86db-ea8a9c862e2c)
 
