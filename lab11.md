@@ -38,6 +38,7 @@ main PROC
     exit
 main ENDP
 END main
+![image](https://github.com/user-attachments/assets/e1c00873-eb1f-4a18-939c-2710c81f8c4b)
 
 
 Q2
@@ -89,6 +90,7 @@ positive:
     exit
 main ENDP
 END main
+![image](https://github.com/user-attachments/assets/add7aaa3-f8f6-43e2-959f-6ff9355fd1c3)
 
 Q3
 INCLUDE Irvine32.inc
@@ -188,6 +190,7 @@ main PROC
     exit
 main ENDP
 END main
+![image](https://github.com/user-attachments/assets/6bba8188-d4a4-4b43-a45d-c4d8fd4d947a)
 
 
 Q5
@@ -286,6 +289,7 @@ main PROC
     exit
 main ENDP
 END main
+![image](https://github.com/user-attachments/assets/d855fa69-f714-427b-a3e5-0d4a6242ef86)
 
 
 Q4
@@ -325,6 +329,7 @@ main PROC
     exit
 main ENDP
 END main
+![image](https://github.com/user-attachments/assets/615b1d8e-d76f-45bd-ab54-50b04fbc2318)
 
 
 
